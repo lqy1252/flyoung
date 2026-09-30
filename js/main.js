@@ -21,6 +21,8 @@
     setImg("#productImg", SITE && SITE.product);
     setImg("#featureImg", SITE && SITE.feature);
     setImg("#detailImg", SITE && SITE.detail);
+    setImg("#product2BannerImg", SITE && SITE.product2Banner);
+    setImg("#product2MainImg", SITE && SITE.product2Main);
 
     var ft = $("#footerText");
     if (ft) ft.textContent = (SITE && SITE.footer) || "";

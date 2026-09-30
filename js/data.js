@@ -15,5 +15,7 @@ var SITE = {
   product: "images/product.jpg",         // 产品主图
   feature: "images/feature.jpg",         // 产品特性
   detail: "images/detail.jpg",           // 详情 / 卖点
+  product2Banner: "images/banner2.png",  // 产品2 Banner
+  product2Main: "images/product2.png",   // 产品2 主图
   footer: "© 2026 Flyoung · 版权所有"     // 页脚文字
 };

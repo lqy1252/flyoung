@@ -57,6 +57,7 @@ a { color: inherit; text-decoration: none; }
 .block:last-child { margin-bottom: 0; }
 .block img { width: 100%; height: auto; }
 .block--narrow { max-width: 680px; margin-left: auto; margin-right: auto; }
+#product2MainImg { max-width: 680px; margin: 48px auto 0; }
 
 .hero { scroll-margin-top: 68px; }
 
